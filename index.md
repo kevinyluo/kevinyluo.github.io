@@ -4,4 +4,4 @@
 
 ### Skills
 
-`C` `JavaScript` `NodeJS` `ReactJS`
+`test` `test2`
