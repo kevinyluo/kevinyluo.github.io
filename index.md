@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Graphics in WebGL](/sample)
+[Graphics in WebGL](https://github.com/kevinyluo/BlockWorld)
 
 <p float="left">
     <img src="images/webgl.gif" width="500"/>
