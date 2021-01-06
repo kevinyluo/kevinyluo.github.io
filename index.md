@@ -2,8 +2,6 @@
 
 ---
 
-### Skills
+### Projects
 
-```
-test1
-```
+<img src="images/webgl.gif" class=inline/>
