@@ -22,6 +22,6 @@ Fully interactive and dynamic block world written with WebGL and JavaScript. All
     <img src="images/IDK2.jpg" height="300"/>
 </p>
 
-Tinder for restuarants.
+A mobile app for making decisions when in a group. Create a lobby and get your friends to join. Select categories for restuarants you're interested in (from yelp) and start swiping. At the end, the restuarant with the most "votes" will be displayed, so you decide whre to eat. I developed the back-end REST API for this project using Express and NodeJS.
 
 ---
