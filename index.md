@@ -2,4 +2,6 @@
 
 ---
 
-### Projects
+### Skills
+
+`C` `JavaScript` `NodeJS` `ReactJS`
