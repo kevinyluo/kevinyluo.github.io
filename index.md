@@ -4,4 +4,4 @@
 
 ### Skills
 
-`test` `test2`
+Inline `code` has `back-ticks around` it.
