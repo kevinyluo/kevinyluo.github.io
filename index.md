@@ -18,8 +18,8 @@ Fully interactive and dynamic block world written with WebGL and JavaScript. All
 [IDK](/sample)
 
 <p float="left">
-    <img src="images/IDK.gif" height="200"/>
-    <img src="images/IDK2.jpg" height="500"/>
+    <img src="images/IDK.gif" height="300"/>
+    <img src="images/IDK2.jpg" height="300"/>
 </p>
 
 Tinder for restuarants.
