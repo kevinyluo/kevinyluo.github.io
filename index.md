@@ -15,7 +15,7 @@ Fully interactive and dynamic block world written with WebGL and JavaScript. All
 
 ---
 
-[IDK](/sample)
+[IDK](https://github.com/nachiketingle/same_home_diff_hacks/tree/backend)
 
 <p float="left">
     <img src="images/IDK.gif" height="400"/>
