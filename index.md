@@ -4,7 +4,11 @@
 
 ### Projects
 
-[Graphics in WebGL](https://github.com/kevinyluo/BlockWorld)
+[Block World](#block world)
+
+#### Block World
+
+[github](https://github.com/kevinyluo/BlockWorld)
 
 <p float="left">
     <img src="images/webgl.gif" width="500"/>
