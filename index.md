@@ -1,8 +1,8 @@
 ## Portfolio
 
-[Projects](#projects) [About Me](#about-me)
+[Projects](#side-projects) [Course Projects](#course-projects) [README](/README.md)
 
-### Projects
+### Side Projects
 
 #### Block World [(github)](https://github.com/kevinyluo/BlockWorld)
 
@@ -26,7 +26,7 @@ A mobile app for making decisions when in a group. Create a lobby and get your f
 
 ---
 
-#### Graph Visualizer [(github)](https://github.com/nachiketingle/same_home_diff_hacks/tree/backend)
+#### Graph Visualizer [(github)](https://github.com/kevinyluo/graphs)
 
 <p float="left">
     <img src="images/graphs.gif" width="500"/>
@@ -36,6 +36,6 @@ A `react` webpage for creating and visualizing graph structures. I am adding alg
 
 ---
 
-### About Me
+### Course Projects
 
 ---
