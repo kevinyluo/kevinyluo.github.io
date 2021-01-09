@@ -1,6 +1,6 @@
 ## Portfolio
 
-[Projects](# Projects) [About Me](# About me)
+[Projects](#projects) [About Me](#about-me)
 
 ### Projects
 
