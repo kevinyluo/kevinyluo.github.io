@@ -2,7 +2,7 @@
 
 [README](/README.md)
 
-### Projects
+## Projects
 
 [Block World](#block-world) [IDK](#idk) [Graph Visualizer](#graph-visualizer)
 
@@ -22,7 +22,7 @@ Fully interactive and dynamic block world. The goal of this project was to creat
 
 ---
 
-#### IDK [(github)](https://github.com/nachiketingle/same_home_diff_hacks/tree/backend)
+### IDK [(github)](https://github.com/nachiketingle/same_home_diff_hacks/tree/backend)
 
 <p float="left">
     <img src="images/IDK.gif" height="400"/>
@@ -38,7 +38,7 @@ A mobile app for making decisions when in a group. Create a lobby and get your f
 
 ---
 
-#### Graph Visualizer [(github)](https://github.com/kevinyluo/graphs)
+### Graph Visualizer [(github)](https://github.com/kevinyluo/graphs)
 
 <p float="left">
     <img src="images/graphs.gif" width="500"/>
