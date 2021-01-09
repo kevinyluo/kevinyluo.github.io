@@ -1,8 +1,10 @@
 ## Portfolio
 
-[Side Projects](#side-projects) [Course Projects](#course-projects) [README](/README.md)
+[README](/README.md)
 
-### Side Projects
+### Projects
+
+[Block World](#block-world) [IDK](#idk) [Graph Visualizer](#graph-visualizer)
 
 #### Block World [(github)](https://github.com/kevinyluo/BlockWorld)
 
@@ -46,10 +48,10 @@ A `react` webpage for creating and visualizing graph structures. I am adding alg
 
 - [x] undirected graphs
 - [x] add and remove nodes and edges
-- [] directed graphs
-- [] custom node labels
-- [] algorithm visualization
-- [] force layout option
+- [ ] directed graphs
+- [ ] custom node labels
+- [ ] algorithm visualization
+- [ ] force layout option
 
 ---
 
