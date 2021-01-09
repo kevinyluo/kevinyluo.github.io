@@ -11,7 +11,7 @@
     <img src="images/webgl2.gif" width="500"/>
 </p>
 
-Fully interactive and dynamic block world written with WebGL and JavaScript. All objects are constructed using webGL triangles, and the lighting is calculated using the diffuse lighting model.
+Fully interactive and dynamic block world written with `WebGL` and `JavaScript`. All objects are constructed using webGL triangles, and the lighting is calculated using the diffuse lighting model.
 
 ---
 
@@ -22,7 +22,7 @@ Fully interactive and dynamic block world written with WebGL and JavaScript. All
     <img src="images/IDK2.jpg" height="400"/>
 </p>
 
-A mobile app for making decisions when in a group. Create a lobby and get your friends to join. Select categories for restuarants you're interested in (from yelp) and start swiping. At the end, the restuarant with the most "votes" will be displayed, so you decide whre to eat. I developed the back-end REST API for this project using Express and NodeJS.
+A mobile app for making decisions when in a group. Create a lobby and get your friends to join. Select categories for restuarants you're interested in (from yelp) and start swiping. At the end, the restuarant with the most "votes" will be displayed, so you decide where to eat. I developed the back-end REST API for this project using `Express` and `NodeJS`.
 
 ---
 
@@ -32,7 +32,7 @@ A mobile app for making decisions when in a group. Create a lobby and get your f
     <img src="images/graphs.gif" width="500"/>
 </p>
 
-A mobile app for making decisions when in a group. Create a lobby and get your friends to join. Select categories for restuarants you're interested in (from yelp) and start swiping. At the end, the restuarant with the most "votes" will be displayed, so you decide whre to eat. I developed the back-end REST API for this project using Express and NodeJS.
+A `react` webpage for creating and visualizing graph structures. I am adding algorithms to run on the graphs, which will show how algorithms work, and will display the outcome of the algorithm. The graphics are created using `react-konva` and `react bootstrap`
 
 ---
 
