@@ -2,6 +2,8 @@
 
 ---
 
+[test](#course-projects)
+
 ## Projects
 
 [Block World](#block-world) [IDK](#idk) [Graph Visualizer](#graph-visualizer)
