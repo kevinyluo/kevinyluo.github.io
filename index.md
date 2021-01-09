@@ -1,17 +1,19 @@
 ## Portfolio
 
-[README](/README.md)
+---
 
 ## Projects
 
 [Block World](#block-world) [IDK](#idk) [Graph Visualizer](#graph-visualizer)
 
-#### Block World [(github)](https://github.com/kevinyluo/BlockWorld)
+### Block World [(github)](https://github.com/kevinyluo/BlockWorld)
 
 <p float="left">
     <img src="images/webgl.gif" width="500"/>
     <img src="images/webgl2.gif" width="500"/>
 </p>
+
+[top image](images/webgl.gif) [bottom image](images/webgl2.gif)
 
 Fully interactive and dynamic block world. The goal of this project was to create a world with realistic lighting and textures. All objects are constructed using webGL triangles, and the lighting is calculated using the diffuse lighting model. The project incorporated the following technologies:
 
