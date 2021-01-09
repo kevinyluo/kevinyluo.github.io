@@ -32,7 +32,7 @@ A mobile app for making decisions when in a group. Create a lobby and get your f
     <img src="images/graphs.gif" width="500"/>
 </p>
 
-A `react` webpage for creating and visualizing graph structures. I am adding algorithms to run on the graphs, which will show how algorithms work, and will display the outcome of the algorithm. The graphics are created using `react-konva` and `react bootstrap`
+A `react` webpage for creating and visualizing graph structures. I am adding algorithms to run on the graphs, which will show how algorithms work, and will display the outcome of the algorithm. The graphics are created using `react-konva` and `react bootstrap`. This project is work in progress, and I hope to incorporate the following features in the future: - [x] undirected graphs - [x] add and remove nodes and edges - [] directed graphs - [] custom node labels - [] algorithm visualization - [] force layout option
 
 ---
 
