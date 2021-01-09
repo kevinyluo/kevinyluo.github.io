@@ -2,8 +2,6 @@
 
 ---
 
-[test](#course-projects)
-
 ## Projects
 
 [Block World](#block-world) [IDK](#idk) [Graph Visualizer](#graph-visualizer)
@@ -62,9 +60,5 @@ A `react` webpage for creating and visualizing graph structures. I am adding alg
 - [ ] custom node labels
 - [ ] algorithm visualization
 - [ ] force layout option
-
----
-
-### Course Projects
 
 ---
