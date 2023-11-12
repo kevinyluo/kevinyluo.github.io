@@ -26,24 +26,6 @@ Fully interactive and dynamic block world. The goal of this project was to creat
 
 ---
 
-### IDK
-
-[(github)](https://github.com/nachiketingle/same_home_diff_hacks/tree/backend)
-
-<p float="left">
-    <img src="images/IDK.gif" height="400"/>
-    <img src="images/IDK2.jpg" height="400"/>
-</p>
-
-A mobile app for making decisions when in a group. Create a lobby and get your friends to join. Select categories for restuarants you're interested in (from yelp) and start swiping. At the end, the restuarant with the most "votes" will be displayed, so you decide where to eat. I developed the back-end REST API for this project using `JavaScript`.The following technologies were used to run the application:
-
-- flutter (front-end)
-- AWS (to run the server)
-- ExpressJS
-- MongoDB
-
----
-
 ### Graph Visualizer
 
 [(github)](https://github.com/kevinyluo/graphs)
@@ -60,5 +42,23 @@ A `react` webpage for creating and visualizing graph structures. I am adding alg
 - [ ] custom node labels
 - [ ] algorithm visualization
 - [ ] force layout option
+
+---
+
+### IDK
+
+[(github)](https://github.com/nachiketingle/same_home_diff_hacks/tree/backend)
+
+<p float="left">
+    <img src="images/IDK.gif" height="400"/>
+    <img src="images/IDK2.jpg" height="400"/>
+</p>
+
+A mobile app for making decisions when in a group. Create a lobby and get your friends to join. Select categories for restuarants you're interested in (from yelp) and start swiping. At the end, the restuarant with the most "votes" will be displayed, so you decide where to eat. I developed the back-end REST API for this project using `JavaScript`.The following technologies were used to run the application:
+
+- flutter (front-end)
+- AWS (to run the server)
+- ExpressJS
+- MongoDB
 
 ---
